@@ -1,8 +1,8 @@
 from euriai.langchain import create_chat_model
 
 API_KEY = None
+MODEL = "gpt-3.5-turbo"
 
-MODEL="gpt-4.1-nano"
 
 TEMPERATURE = 0.7
 
