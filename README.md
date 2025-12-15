@@ -90,11 +90,7 @@ def extract_text_from_pdf_miner(pdf_path):
 
 
 
-OCR (Optical Character Recognition): For scanned PDFs or images within PDFs, OCR is necessary. Tesseract OCR is a popular open-source engine. Libraries like pytesseract provide Python bindings.
 
-
-
-```python
 
 import pytesseract
 
